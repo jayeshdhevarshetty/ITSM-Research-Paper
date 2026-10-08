@@ -4,8 +4,6 @@ This is my research paper about how IT teams deal with problems when systems are
 
 One thing I learned is that just closing a ticket is not always enough. If the same issue keeps coming back, the team should find out why it is happening and make a proper fix. The paper explains how these three processes can work together instead of being handled separately.
 
-I also included an example from production support. A monitoring alert was creating the same false incidents again and again. After checking the logs and finding the timing issue, a change was made that helped reduce similar repeated incidents by around 70 percent.
-
 The full paper covers three important areas in IT service management.
 
 - Incident Management helps bring a service back when something goes wrong.
@@ -26,8 +24,6 @@ Instead of only fixing the same issue again and again, IT teams can do the follo
 2. Find the root cause of repeated issues.
 3. Make a safe, long-term fix.
 4. Monitor the system to make sure the problem does not come back.
-
-The paper also includes a real production-support example. In that case, a monitoring alert was creating repeated false incidents. By checking logs, finding the timing issue, and making a controlled change, the team reduced recurring incidents by about 70% across similar applications.
 
 ## Why this matters
 
@@ -60,4 +56,4 @@ This paper was written for ITMM-572, Process Engineering for IT Managers.
 
 ## Note
 
-This repository is for sharing the research paper and showing my understanding of IT operations and process improvement. The practical example in the paper uses general, non-sensitive information.
+This repository is for sharing the research paper and showing my understanding of IT operations and process improvement.
